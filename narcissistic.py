@@ -1,3 +1,4 @@
+# https://www.codewars.com/kata/does-my-number-look-big-in-this/train/python
 def narcissistic(num):
     int_str = str(num)
     exp = len(int_str)

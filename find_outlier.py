@@ -1,3 +1,4 @@
+# https://www.codewars.com/kata/find-the-parity-outlier/train/python
 def find_outlier(integers):
     odds = []
     evens = []
@@ -13,3 +14,5 @@ def find_outlier(integers):
             return odds[0]
         if (len(odds) > 1 and len(evens) == 1):
             return evens[0]
+
+print find_outlier([2,6,8,10,3])

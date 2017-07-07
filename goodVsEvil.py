@@ -1,3 +1,5 @@
+# https://www.codewars.com/kata/52761ee4cffbc69732000738/train/python
+# NOT PASSING ALL TESTS!!!!!!!!!!!!!
 def goodVsEvil(good, evil):
     good_sum = 0
     evil_sum = 0
@@ -20,7 +22,3 @@ def goodVsEvil(good, evil):
 print goodVsEvil('1 1 1 1 1 1', '1 1 1 1 1 1 1')
 print goodVsEvil('0 0 0 0 0 10', '0 1 1 1 1 0 0')
 print goodVsEvil('1 0 0 0 0 0', '1 0 0 0 0 0 0')
-
-
-# https://www.codewars.com/kata/52761ee4cffbc69732000738/train/python
-# NOT PASSING ALL TESTS!!!!!!!!!!!!!

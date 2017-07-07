@@ -1,3 +1,4 @@
+# https://www.codewars.com/kata/list-filtering/train/python
 def filter_list(l):
     # lst = []
     # for item in l:

@@ -1,3 +1,4 @@
+# https://www.codewars.com/kata/who-likes-it/train/python
 def likes(names):
     names_2 = names[:2]
     names_rest = names[2:]

@@ -1,3 +1,4 @@
+# https://www.codewars.com/kata/mumbling/train/python
 def accum(s):
     if (s.isalpha()):
         str_lst = []
