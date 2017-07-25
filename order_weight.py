@@ -1,5 +1,4 @@
 # https://www.codewars.com/kata/55c6126177c9441a570000cc/train/python
-
 def order_weight(string):
     wrd_lst = string.split(" ")
     wgt_lst = [sum(map(int, list(wrd))) for wrd in wrd_lst]

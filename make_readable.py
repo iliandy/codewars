@@ -1,5 +1,4 @@
 # https://www.codewars.com/kata/52685f7382004e774f0001f7/train/python
-
 def make_readable(sec):
     hh = (sec/60**2) % 100
     mm = (sec/60) % 60

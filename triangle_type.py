@@ -5,7 +5,6 @@
 #  2 : right triangle
 #  3 : obtuse triangle
 # from math import acos, pi
-
 def triangle_type(a, b, c):
     fl_a = float(a)
     fl_b = float(b)

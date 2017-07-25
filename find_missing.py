@@ -1,5 +1,4 @@
 # https://www.codewars.com/kata/find-the-missing-term-in-an-arithmetic-progression/train/python
-
 def find_missing(seq):
     step = (seq[-1] - seq[0])/len(seq)
     comp_seq = range(seq[0], seq[-1], step)
