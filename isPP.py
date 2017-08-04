@@ -14,6 +14,6 @@ def isPP(n):
 print isPP(125)
 
 exp = math.log10(125) / math.log10(5)
-print exp
+print exp   # returns 2.9999999999999996
 
 # not passing all tests
